@@ -1,2 +1,2 @@
 # html
-file latihan
+file latihan html
